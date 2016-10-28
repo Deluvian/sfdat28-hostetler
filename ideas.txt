@@ -1,0 +1,26 @@
+Capstone Project Ideas:
+
+
+1.Twitch content tagging algorithm, where we take in data from various sources and classify content as it goes live.
+	-Probably value low variance over bias for this model
+	-Use NLP on the steam titles
+	-Scrape game wikis to understand the team's/players
+		Tags:
+		Professionals
+		Semi-Professionals
+		Former-Professionals
+		Caster
+		E-Sports Content
+		Community Content
+
+2. Machine learning on video recognition  (Tag which game is being played based on video recognition)
+	-Figure out at which point in the video the broadcaster changes games
+
+3. Machine learning on chat (programmatically clip/highlights good parts of videos)
+	-NLP to suggest titles
+	-Use chat velocity to understand what parts of the video need to be clipped
+	
+4. Learn how to evaluate social media buzz of advertising campaigns
+	-Use NLP across social media (facebook, twitter) to understand if ad buying is changing the sentiment around brand/advertiser
+
+
